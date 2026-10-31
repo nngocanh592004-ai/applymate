@@ -515,9 +515,6 @@ h3.sub{font-family:var(--f-serif);font-weight:600;font-size:24px;color:var(--hea
 .problem blockquote{font-size:clamp(24px,2.7vw,34px);line-height:1.35;max-width:40ch}
 
 /* ERD relations box */
-.rel-box{max-height:460px;overflow:auto;border:1px solid var(--line);border-radius:14px}
-.rel-box .tbl{margin:0;border:0}
-.rel-box th{position:sticky;top:0;z-index:1}
 .asis-tobe td:last-child{text-align:center;font-weight:700;color:var(--hi-ink);white-space:nowrap}
 .hero-vis{min-height:0}
 
@@ -695,7 +692,7 @@ h3.sub,.mk-chart h3,.rf h3,.card-s h3{font-family:var(--f-serif);font-weight:600
 @media(max-width:700px){.car-main{grid-template-columns:1fr}.car-nav{display:none}.car-foot{margin:12px 0 0}}
 @media (prefers-reduced-motion:reduce){.car-slide,.cmp-img{transition:none}}
 .cmp .dia .board-content{transition:opacity .18s}.cmp .dia.swap .board-content{opacity:0}
-.dia.wide,.car-main,.rel-box{position:relative;z-index:16}
+.dia.wide,.car-main{position:relative;z-index:16}
 .erd-open{display:flex;flex-wrap:wrap;align-items:center;gap:12px 16px;margin:20px 0 0}.erd-open span{font-size:14px;color:var(--muted)}
 /* v18 · bước trên sơ đồ trong bảng so sánh */
 .asis-tobe .stp{display:block;margin-top:6px;font-size:13px;color:var(--muted);line-height:1.45}
