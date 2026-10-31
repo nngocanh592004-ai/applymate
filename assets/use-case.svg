@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="2060" viewBox="0 0 1660 2060" font-family="Arial, sans-serif">
+<defs><marker id="open" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" orient="auto"><path d="M1,1 L11,6 L1,11" fill="none" stroke="#1E3A2D" stroke-width="1.4"/></marker><marker id="gen" viewBox="0 0 16 16" refX="15" refY="8" markerWidth="16" markerHeight="16" orient="auto"><path d="M1,1 L15,8 L1,15 Z" fill="white" stroke="#1E3A2D" stroke-width="1.4"/></marker></defs>
+<rect width="1660" height="2060" fill="white"/>
+<rect x="320" y="30" width="1140" height="2010" fill="#F4F8F3" stroke="#1E3A2D" stroke-width="2"/>
+<text x="890" y="62" text-anchor="middle" font-size="20" font-weight="bold" fill="#1E3A2D">Nền tảng Applymate</text>
+<ellipse cx="575" cy="100" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="105" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng nhập</text>
+<ellipse cx="575" cy="162" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="167" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng xuất</text>
+<ellipse cx="575" cy="224" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="229" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đặt lại mật khẩu</text>
+<ellipse cx="575" cy="320" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="325" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng ký tài khoản</text>
+<ellipse cx="575" cy="380" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="385" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xóa tài khoản</text>
+<ellipse cx="575" cy="440" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="445" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Trả lời khảo sát 5 câu</text>
+<ellipse cx="575" cy="500" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="505" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xem gợi ý trường</text>
+<ellipse cx="575" cy="560" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="565" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xem gợi ý học bổng</text>
+<ellipse cx="575" cy="620" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="625" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xem phương án tài chính</text>
+<ellipse cx="575" cy="680" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="685" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Thêm vào bảng tiến độ</text>
+<ellipse cx="575" cy="740" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="745" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật trường trong bảng tiến độ</text>
+<ellipse cx="575" cy="800" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="805" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật trạng thái hồ sơ</text>
+<ellipse cx="575" cy="860" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="865" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xem bảng tiến độ</text>
+<ellipse cx="575" cy="920" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="925" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xuất bảng tiến độ</text>
+<ellipse cx="575" cy="980" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="985" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xem lộ trình</text>
+<ellipse cx="575" cy="1040" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1045" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật tiến độ việc</text>
+<ellipse cx="575" cy="1100" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1105" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đọc hướng dẫn</text>
+<ellipse cx="575" cy="1160" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1165" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Tải mẫu SOP/LOR</text>
+<ellipse cx="575" cy="1220" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1225" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Hỏi trợ lý AI</text>
+<ellipse cx="575" cy="1280" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1285" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đọc bài review</text>
+<ellipse cx="575" cy="1340" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1345" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Bình luận bài review</text>
+<ellipse cx="575" cy="1450" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1455" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật lĩnh vực</text>
+<ellipse cx="575" cy="1510" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1515" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật quốc gia</text>
+<ellipse cx="575" cy="1570" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1575" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật trường</text>
+<ellipse cx="575" cy="1630" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1635" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật học bổng</text>
+<ellipse cx="575" cy="1690" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1695" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật giai đoạn</text>
+<ellipse cx="575" cy="1750" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1755" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật checklist mẫu</text>
+<ellipse cx="575" cy="1810" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1815" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng bài hướng dẫn, mẫu</text>
+<ellipse cx="575" cy="1870" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1875" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng bài review</text>
+<ellipse cx="575" cy="1930" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1935" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Ẩn bình luận vi phạm</text>
+<ellipse cx="575" cy="1990" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
+<text x="575" y="1995" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Bổ sung tài liệu cho câu hỏi AI</text>
+<ellipse cx="1030" cy="460" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
+<text x="1030" y="465" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xem học bổng của trường</text>
+<ellipse cx="1030" cy="740" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
+<text x="1030" y="745" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật lộ trình theo hạn nộp</text>
+<circle cx="110" cy="104" r="13" fill="white" stroke="#1E3A2D" stroke-width="2"/><line x1="110" y1="117" x2="110" y2="155" stroke="#1E3A2D" stroke-width="2"/><line x1="88" y1="130" x2="132" y2="130" stroke="#1E3A2D" stroke-width="2"/><line x1="110" y1="155" x2="92" y2="185" stroke="#1E3A2D" stroke-width="2"/><line x1="110" y1="155" x2="128" y2="185" stroke="#1E3A2D" stroke-width="2"/>
+<text x="110" y="208" text-anchor="middle" font-size="15" font-weight="bold" font-style="italic" fill="#1E3A2D">Người dùng</text>
+<circle cx="180" cy="784" r="13" fill="white" stroke="#1E3A2D" stroke-width="2"/><line x1="180" y1="797" x2="180" y2="835" stroke="#1E3A2D" stroke-width="2"/><line x1="158" y1="810" x2="202" y2="810" stroke="#1E3A2D" stroke-width="2"/><line x1="180" y1="835" x2="162" y2="865" stroke="#1E3A2D" stroke-width="2"/><line x1="180" y1="835" x2="198" y2="865" stroke="#1E3A2D" stroke-width="2"/>
+<text x="180" y="888" text-anchor="middle" font-size="15" font-weight="bold" fill="#1E3A2D">Du học sinh</text>
+<circle cx="110" cy="1674" r="13" fill="white" stroke="#1E3A2D" stroke-width="2"/><line x1="110" y1="1687" x2="110" y2="1725" stroke="#1E3A2D" stroke-width="2"/><line x1="88" y1="1700" x2="132" y2="1700" stroke="#1E3A2D" stroke-width="2"/><line x1="110" y1="1725" x2="92" y2="1755" stroke="#1E3A2D" stroke-width="2"/><line x1="110" y1="1725" x2="128" y2="1755" stroke="#1E3A2D" stroke-width="2"/>
+<text x="110" y="1778" text-anchor="middle" font-size="15" font-weight="bold" fill="#1E3A2D">Admin</text>
+<line x1="132" y1="130" x2="413" y2="100" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="130" x2="413" y2="162" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="130" x2="413" y2="224" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="320" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="380" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="440" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="500" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="560" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="620" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="680" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="740" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="800" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="860" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="920" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="980" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="1040" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="1100" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="1160" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="1220" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="1280" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="202" y1="810" x2="413" y2="1340" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1450" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1510" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1570" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1630" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1690" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1750" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1810" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1870" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1930" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="132" y1="1700" x2="413" y2="1990" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="176" y1="778" x2="122" y2="220" stroke="#1E3A2D" stroke-width="1.4" marker-end="url(#gen)"/>
+<line x1="104" y1="1668" x2="104" y2="220" stroke="#1E3A2D" stroke-width="1.4" marker-end="url(#gen)"/>
+<ellipse cx="1030" cy="605" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
+<text x="1030" y="610" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Chọn trường cho học bổng chính phủ</text>
+<ellipse cx="1030" cy="1185" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
+<text x="1030" y="1190" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Trích nguồn</text>
+<ellipse cx="1030" cy="1255" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
+<text x="1030" y="1260" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Chuyển câu hỏi cho admin</text>
+<circle cx="1560" cy="186" r="13" fill="white" stroke="#1E3A2D" stroke-width="2"/><line x1="1560" y1="199" x2="1560" y2="237" stroke="#1E3A2D" stroke-width="2"/><line x1="1538" y1="212" x2="1582" y2="212" stroke="#1E3A2D" stroke-width="2"/><line x1="1560" y1="237" x2="1542" y2="267" stroke="#1E3A2D" stroke-width="2"/><line x1="1560" y1="237" x2="1578" y2="267" stroke="#1E3A2D" stroke-width="2"/>
+<text x="1560" y="290" text-anchor="middle" font-size="15" font-weight="bold" fill="#1E3A2D">Dịch vụ</text>
+<text x="1560" y="308" text-anchor="middle" font-size="15" font-weight="bold" fill="#1E3A2D">email</text>
+<line x1="1536" y1="212" x2="737" y2="224" stroke="#1E3A2D" stroke-width="1.2"/>
+<line x1="917" y1="624" x2="688" y2="661" stroke="#1E3A2D" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#open)"/><text x="802" y="610" text-anchor="middle" font-size="13" fill="#1E3A2D">extend</text>
+<line x1="721" y1="1209" x2="884" y2="1196" stroke="#1E3A2D" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#open)"/><text x="802" y="1186" text-anchor="middle" font-size="13" fill="#1E3A2D">include</text>
+<line x1="884" y1="1244" x2="721" y2="1231" stroke="#1E3A2D" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#open)"/><text x="802" y="1264" text-anchor="middle" font-size="13" fill="#1E3A2D">extend</text>
+<line x1="888" y1="472" x2="717" y2="488" stroke="#1E3A2D" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#open)"/><text x="802" y="470" text-anchor="middle" font-size="13" fill="#1E3A2D">extend</text>
+<line x1="700" y1="697" x2="905" y2="723" stroke="#1E3A2D" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#open)"/><text x="802" y="696" text-anchor="middle" font-size="13" fill="#1E3A2D">include</text>
+<line x1="737" y1="740" x2="868" y2="740" stroke="#1E3A2D" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#open)"/><text x="802" y="734" text-anchor="middle" font-size="13" fill="#1E3A2D">include</text>
+<line x1="700" y1="783" x2="905" y2="757" stroke="#1E3A2D" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#open)"/><text x="802" y="786" text-anchor="middle" font-size="13" fill="#1E3A2D">include</text>
+</svg>
