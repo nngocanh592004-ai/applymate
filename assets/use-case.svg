@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="2060" viewBox="0 0 1660 2060" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="2000" viewBox="0 0 1660 2000" font-family="Arial, sans-serif">
 <defs><marker id="open" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" orient="auto"><path d="M1,1 L11,6 L1,11" fill="none" stroke="#1E3A2D" stroke-width="1.4"/></marker><marker id="gen" viewBox="0 0 16 16" refX="15" refY="8" markerWidth="16" markerHeight="16" orient="auto"><path d="M1,1 L15,8 L1,15 Z" fill="white" stroke="#1E3A2D" stroke-width="1.4"/></marker></defs>
-<rect width="1660" height="2060" fill="white"/>
-<rect x="320" y="30" width="1140" height="2010" fill="#F4F8F3" stroke="#1E3A2D" stroke-width="2"/>
+<rect width="1660" height="2000" fill="white"/>
+<rect x="320" y="30" width="1140" height="1950" fill="#F4F8F3" stroke="#1E3A2D" stroke-width="2"/>
 <text x="890" y="62" text-anchor="middle" font-size="20" font-weight="bold" fill="#1E3A2D">Nền tảng Applymate</text>
 <ellipse cx="575" cy="100" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
 <text x="575" y="105" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng nhập</text>
@@ -54,17 +54,15 @@
 <ellipse cx="575" cy="1630" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
 <text x="575" y="1635" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật học bổng</text>
 <ellipse cx="575" cy="1690" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
-<text x="575" y="1695" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật giai đoạn</text>
+<text x="575" y="1695" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật checklist mẫu</text>
 <ellipse cx="575" cy="1750" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
-<text x="575" y="1755" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Cập nhật checklist mẫu</text>
+<text x="575" y="1755" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng bài hướng dẫn, mẫu</text>
 <ellipse cx="575" cy="1810" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
-<text x="575" y="1815" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng bài hướng dẫn, mẫu</text>
+<text x="575" y="1815" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng bài review</text>
 <ellipse cx="575" cy="1870" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
-<text x="575" y="1875" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Đăng bài review</text>
+<text x="575" y="1875" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Ẩn bình luận vi phạm</text>
 <ellipse cx="575" cy="1930" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
-<text x="575" y="1935" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Ẩn bình luận vi phạm</text>
-<ellipse cx="575" cy="1990" rx="162" ry="26" fill="white" stroke="#1E3A2D" stroke-width="1.6"/>
-<text x="575" y="1995" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Bổ sung tài liệu cho câu hỏi AI</text>
+<text x="575" y="1935" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Bổ sung tài liệu cho câu hỏi AI</text>
 <ellipse cx="1030" cy="460" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
 <text x="1030" y="465" text-anchor="middle" font-size="14.5" fill="#1E3A2D">Xem học bổng của trường</text>
 <ellipse cx="1030" cy="740" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
@@ -105,7 +103,6 @@
 <line x1="132" y1="1700" x2="413" y2="1810" stroke="#1E3A2D" stroke-width="1.2"/>
 <line x1="132" y1="1700" x2="413" y2="1870" stroke="#1E3A2D" stroke-width="1.2"/>
 <line x1="132" y1="1700" x2="413" y2="1930" stroke="#1E3A2D" stroke-width="1.2"/>
-<line x1="132" y1="1700" x2="413" y2="1990" stroke="#1E3A2D" stroke-width="1.2"/>
 <line x1="176" y1="778" x2="122" y2="220" stroke="#1E3A2D" stroke-width="1.4" marker-end="url(#gen)"/>
 <line x1="104" y1="1668" x2="104" y2="220" stroke="#1E3A2D" stroke-width="1.4" marker-end="url(#gen)"/>
 <ellipse cx="1030" cy="605" rx="162" ry="26" fill="white" stroke="#2F6B4F" stroke-width="1.6"/>
